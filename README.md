@@ -11,4 +11,5 @@ Alternative name: Privacy Lounge, Cypherpunk Corner
 ### Features
 * **Campfire sessions** on privacy and cypherpunk/lunarpunk topics
 * **"Privacy Design Clinic"** - feedback and guidance on designing privacy-conscious applications
-* **Networking opportunities** - networking sessions for individuals interested in privacy 
+* **Networking opportunities** - networking sessions for individuals interested in privacy
+* "Wechsel Ecke" - A place for private P2P exchange of (not just) testnet tokens
