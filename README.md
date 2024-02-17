@@ -6,6 +6,10 @@ https://blog.dod.ngo/ethberlin04-experiences/
 
 A space dedicated to privacy and freedom. Not only for privacy enthusiasts.
 
+* educational
+* community-focused, tech-focused
+* marketing-free, no bullshit
+
 Alternative name: Privacy Lounge, Cypherpunk Corner
 
 ### Features
