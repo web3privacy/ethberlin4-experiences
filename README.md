@@ -16,6 +16,7 @@ Alternative name: Privacy Lounge, Cypherpunk Corner
 * **[Campfire sessions](#campfire-sessions)** on privacy and cypherpunk/lunarpunk topics
 * **[Privacy Design Clinic](#privacy-design-clinic)** - feedback and guidance on designing privacy-conscious applications
 * **"Wechsel Ecke"** - place for private P2P exchange of (not just) testnet tokens
+* **Bleskomat** - DIY Bitcoin ATM ([info](https://www.bleskomat.com/))
 * **Privacy installation** - TBD
 
 ### Campfire sessions
