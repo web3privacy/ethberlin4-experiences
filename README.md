@@ -4,7 +4,7 @@ https://blog.dod.ngo/ethberlin04-experiences/
 
 ## (1) Privacy Corner
 
-A space dedicated to privacy and freedom. Not only for privacy enthusiasts.
+Autonomous zone dedicated to privacy and freedom. Not only for privacy enthusiasts.
 
 * educational
 * community-focused (inter-community), tech-focused
