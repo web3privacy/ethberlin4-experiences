@@ -23,7 +23,7 @@ Alternative name: Privacy Lounge, Cypherpunk Corner
 
 A dedicated micro "stage" in open space, with seating for few people, and the option of a standing audience.
 
-Everyone is able to propose their own campfire session. The only and main condition is that it must be related to our topic (eq. privacy, cypherpunk/lunarpunk).
+Everyone is able to propose their own campfire session. The only and main condition is that it must be related to our topic (eq. privacy, cypherpunk/lunarpunk). Typical length of one campfire session is 30 - 60 minutes.
 
 Examples of campfire session:
 * open discussion around a specific topic
@@ -33,6 +33,8 @@ Examples of campfire session:
 * HW showcase - BananaPhone, GrapheneOS etc. :)
 * author's reading from the book
 * musical or visual performance
+
+W3PN will run open submissions and they will curate the entire schedule to keep the content on topic and as non-commercial and community-based as possible.
 
 Requirements:
 * 15 chairs + unspecified number of relaxed seating (fatboy?)
