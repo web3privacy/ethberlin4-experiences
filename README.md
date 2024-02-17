@@ -4,6 +4,10 @@ https://blog.dod.ngo/ethberlin04-experiences/
 
 ## (1) Privacy Corner
 
+A place dedicated to privacy and freedom. Not only for privacy enthusiasts.
+
+Alternative name: Privacy Lounge, Cypherpunk Corner
+
 ### Features
 * **Campfire sessions** on privacy and cypherpunk/lunarpunk topics
 * **"Privacy Design Clinic"** - feedback and guidance on designing privacy-conscious applications
