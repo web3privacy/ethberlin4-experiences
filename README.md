@@ -4,45 +4,4 @@ https://blog.dod.ngo/ethberlin04-experiences/
 
 ## (1) Privacy Corner
 
-Autonomous zone dedicated to privacy and freedom. Not only for privacy enthusiasts.
-
-* educational
-* community-focused (inter-community), tech-focused
-* marketing-free, no bullshit
-
-Alternative name: Privacy Lounge, Cypherpunk Corner
-
-### Features
-* **[Campfire sessions](#campfire-sessions)** on privacy and cypherpunk/lunarpunk topics
-* **[Privacy Design Clinic](#privacy-design-clinic)** - feedback and guidance on designing privacy-conscious applications
-* **"Wechsel Ecke"** - place for private P2P exchange of (not just) testnet tokens
-* **Bleskomat** - DIY Bitcoin ATM ([info](https://www.bleskomat.com/))
-* **Privacy installation** - TBD
-
-### Campfire sessions
-
-A dedicated micro "stage" in open space, with seating for few people, and the option of a standing audience.
-
-Everyone is able to propose their own campfire session. The only and main condition is that it must be related to our topic (eq. privacy, cypherpunk/lunarpunk). Typical length of one campfire session is 30 - 60 minutes.
-
-Examples of campfire session:
-* open discussion around a specific topic
-* an interview with a well-known/interesting person
-* introducing an open privacy tool or protocol
-* networking session for privacy-curious people
-* HW showcase - BananaPhone, GrapheneOS etc. :)
-* author's reading from the book
-* musical or visual performance
-
-W3PN will run open submissions and they will curate the entire schedule to keep the content on topic and as non-commercial and community-based as possible.
-
-Requirements:
-* 15 chairs + unspecified number of relaxed seating (fatboy?)
-* microphone, speaker, TV with HDMI input
-
-### Privacy Design Clinic
-
-A dedicated desk where teams can receive feedback and guidance on designing privacy-conscious applications. Experienced mentors can help teams evaluate privacy risks, implement best practices, and improve the privacy features of their projects.
-
-Requiremenets:
-* 5 chairs, 2 tables
+- https://github.com/web3privacy/privacy-corner
